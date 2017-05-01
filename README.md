@@ -1,6 +1,8 @@
 # Rosalind.info Problems and Solutions
 
-This is a summary of my solutions to the problems on [rosalind.info](https://www.rosalind.info). 
+This is a summary of my solutions to the problems on [rosalind.info](https://www.rosalind.info). The solution approaches of each problem are usually at the beginning of the corresponding source file. I will keep updating the list. Please feel free to share any of your thoughts!
+
+
 
 |  #  | Problems and Solutions 
 |------------- | ------------- 
