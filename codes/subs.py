@@ -1,3 +1,13 @@
+# Author: Thong Le
+# Date: 
+#
+# rosalind.info SUBS - Finding a Motif in DNA
+#
+# Solution Approach: 
+#
+#
+#
+
 s1 = raw_input()
 s2 = raw_input()
 

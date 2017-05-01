@@ -1,3 +1,13 @@
+# Author: Thong Le
+# Date: 
+#
+# rosalind.info PERM - Enumerating Gene Orders
+#
+# Solution Approach: 
+#
+#
+#
+
 from math import factorial
 from itertools import permutations
 

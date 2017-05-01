@@ -1,3 +1,13 @@
+# Author: Thong Le
+# Date: 
+#
+# rosalind.info HAMM - Counting Point Mutations
+#
+# Solution Approach: 
+#
+#
+#
+
 s1 = raw_input()
 s2 = raw_input()
 

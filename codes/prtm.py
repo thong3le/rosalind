@@ -1,3 +1,13 @@
+# Author: Thong Le
+# Date: 
+#
+# rosalind.info PRTM - Calculating Protein Mass
+#
+# Solution Approach: 
+#
+#
+#
+
 mass = """
 A   71.03711 
 C   103.00919

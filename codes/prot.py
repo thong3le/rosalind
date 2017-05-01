@@ -1,3 +1,13 @@
+# Author: Thong Le
+# Date: 
+#
+# rosalind.info PROT - Translating RNA into Protein
+#
+# Solution Approach: 
+#
+#
+#
+
 def construct_table():
 	fh = open('rna_codon.txt');
 	for line in fh:
